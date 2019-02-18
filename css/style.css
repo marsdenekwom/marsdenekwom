@@ -2,7 +2,7 @@ img {
   width: 350px;
 }
 .contacts {
-  background-color: white;
+  background-color: grey;
 }
 body.ground{
   background-image: url("../images/backgroung.jpg");
