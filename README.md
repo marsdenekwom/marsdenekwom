@@ -1,11 +1,11 @@
 ### TRIANGLE TRACKER
 ### Determining type of triangle
-##Created by Marsden Ekwom
+## Created by Marsden Ekwom
 This is my triangle tracker webpage created on 15th February 2019
 
 ## Description
 This is a webpage that enables one to find out the type of triangle
-* It gives a brief definition of each type of triangle 
+* It gives a brief definition of each type of triangle
 
 
 ## Setup/Installation Requirements
@@ -15,7 +15,7 @@ This is a webpage that enables one to find out the type of triangle
 * Terminal
 * Atom
 
-##Function
+## Function
 The webpage determines whether it can first form a triangle
 If it can form a triangle it tries;
 * checking if its an equilateral triangle by checking whether all sides are equal
